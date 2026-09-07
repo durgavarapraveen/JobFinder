@@ -1,0 +1,37 @@
+Geda Durga Vara Praveen — Software Engineer, IIT Jodhpur CSE.
+
+SUMMARY
+Software engineer building AI-native security tooling and backend services. Production
+Java Spring Boot, Python, FastAPI, REST APIs, React, Next.js, Node.js. AWS, Azure, Docker,
+CI/CD, PostgreSQL. Hands-on with LLM agents, agentic orchestration, tool/function calling,
+RAG, and Responsible AI. Red team and cloud security background: threat modeling,
+security-as-code, telemetry-driven debugging.
+
+SKILLS
+Languages: Python, Java, C, C++, JavaScript, TypeScript.
+Backend: Spring Boot, Hibernate, JPA, Node.js, Express, Django, FastAPI, REST APIs, JWT.
+Frontend: React, Next.js, HTML, CSS.
+Databases: PostgreSQL, MySQL, MongoDB, Firebase, pgvector.
+Cloud and DevOps: AWS, Azure, Docker, GitHub Actions, Terraform, CI/CD, system design.
+AI and agents: LLM orchestration, agentic workflows, function calling, MCP, RAG,
+sentence-transformers, OpenTelemetry, prompt engineering, GitHub Copilot, GenAI.
+Security: red team, penetration testing, threat modeling, OWASP, Nmap, Nuclei, SQLMap,
+ZAP, Burp Suite, MITRE ATTACK, cloud security, IAM, DevSecOps, vulnerability assessment.
+
+EXPERIENCE
+ICICI Bank — Security Engineer, Internal Audit Red Team. Building AntiGravity, an
+AI-driven multi-agent autonomous penetration-testing and attack-surface-management
+platform in Python. LLM agentic loop, orchestration state machines, Docker Kali executors,
+security-as-code guardrails, OpenTelemetry tracing, Prometheus metrics.
+ICICI Bank — Cloud Security, Internal Audit. Built a cloud security-assessment platform
+in Python, boto3, Next.js across AWS accounts: graph-based blast-radius analysis, IAM
+analyzer, automated misconfiguration detection, CIS Benchmarks, Azure audits.
+EaseRent — Backend Developer Intern, Java Spring Boot. Built REST APIs for a multi-tenant
+SaaS platform with Hibernate, JPA, MySQL.
+
+EDUCATION
+B.Tech Computer Science, IIT Jodhpur.
+
+TARGET ROLES
+Software Engineer, Software Development Engineer, Backend Engineer, Full Stack Engineer,
+AI Engineer, Security Engineer, Application Security Engineer, Cloud Engineer.
